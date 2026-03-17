@@ -2,7 +2,7 @@
 
 Welcome to the repository of Pokemon Starlight!
 
-## Please note this readme is not complete, and is mainly an edit of an already existing one from the rom-hack Dreamstone Mysteries.
+## Please note this readme is not complete in the slightest :(
 
 Alpha coming soon!
 
