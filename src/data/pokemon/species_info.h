@@ -269,15 +269,15 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .speciesName = _("Wooloo"),
         .cryId = CRY_NONE,
-        .natDexNum = NATIONAL_DEX_NONE,
-        .categoryName = _("Unknown"),
-        .height = 0,
-        .weight = 0,
+        .natDexNum = NATIONAL_DEX_WOOLOO_HISALE,
+        .categoryName = _("Floating Sheep"),
+        .height = 8,
+        .weight = 42,
         .description = COMPOUND_STRING(
-            "This is a newly discovered Pokémon.\n"
-            "It is currently under investigation.\n"
-            "No detailed information is available\n"
-            "at this time."),
+            "Originally thought to be a new Pokemon,\n"
+            "Hisalian Wooloo tend to wash up on shores\n"
+            "after they escape from their homes in Galar,\n"
+            "much to the dismay of shepherds."),
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
