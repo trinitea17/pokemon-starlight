@@ -1687,7 +1687,32 @@
 #define SPECIES_TATSUGIRI_DROOPY_MEGA                   1570
 #define SPECIES_TATSUGIRI_STRETCHY_MEGA                 1571
 #define SPECIES_GLIMMORA_MEGA                           1572
-#define SPECIES_WOOLOO_HISALE                           1573
+#define SPECIES_SAPLIRAM                                1573
+#define SPECIES_LUMBERCUS                               1574
+#define SPECIES_CAPRIGROVE                              1575
+#define SPECIES_CALMBER                                 1576
+#define SPECIES_BOVINERATE                              1577
+#define SPECIES_OXENFERNO                               1578
+#define SPECIES_NATTERJAQUA                             1579
+#define SPECIES_CROAKAJASK                              1580
+#define SPECIES_TOADHEMOTH                              1581
+#define SPECIES_SCIURIAN                                1582
+#define SPECIES_GNAWRA                                  1583
+#define SPECIES_TINANT                                  1584
+#define SPECIES_BUFFORM                                 1585
+#define SPECIES_SWARMATUDE                              1586
+#define SPECIES_CAWCRAKE                                1587
+#define SPECIES_CORNABLE                                1588
+#define SPECIES_SCRAWKABLE                              1589
+#define SPECIES_NIPPIN                                  1590
+#define SPECIES_STINGASHREW                             1591
+#define SPECIES_COOTLE                                  1592
+#define SPECIES_HIGHLANOO                               1593
+#define SPECIES_FOLDAFOO                                1594
+#define SPECIES_SLITHEREH                               1595
+#define SPECIES_ARILUG                                  1596
+#define SPECIES_PERISHEL                                1597
+#define SPECIES_WOOLOO_HISALE                           1598                        
 
 #define SPECIES_EGG                                     (SPECIES_WOOLOO_HISALE + 1)
 
