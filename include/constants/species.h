@@ -1711,7 +1711,7 @@
 #define SPECIES_FOLDAFOO                                1594
 #define SPECIES_SLITHEREH                               1595
 #define SPECIES_ARILUG                                  1596
-#define SPECIES_PERISHEL                                1597
+#define SPECIES_PERISHEL                                1597 
 #define SPECIES_WOOLOO_HISALE                           1598                        
 
 #define SPECIES_EGG                                     (SPECIES_WOOLOO_HISALE + 1)
